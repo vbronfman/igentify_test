@@ -1,1 +1,1 @@
-$ python -m SimpleHTTPServer 10000
+python -m SimpleHTTPServer 10000
